@@ -1,0 +1,130 @@
+body{
+	width: auto;
+	height: auto;
+}
+
+header{
+	width: 90%;
+	height: 70px;
+	box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+	margin: 0 auto;
+	margin-top: 50px;
+	border-radius: 6px;
+}
+
+#section{
+	width: 90%;
+	height: 450px;
+	box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+	margin: 0 auto;
+	margin-top: 15px;
+	border-radius: 6px;
+}
+
+.boton{
+	float: right;
+	text-align: center;
+	display: inline-block;
+	cursor: pointer;
+	margin-left: 5px;
+	margin-right: 10px;
+	margin-top: 20px;
+}
+
+#face{
+	margin-right: 60px;
+}
+
+#nombre{
+	float: left;
+	font-family: arial;
+	font-size: 20px;
+	margin-left: 60px;
+}
+
+#izquierda{
+	background-color: indianred;
+	float: left;
+	width: 35%;
+	height: 100%;
+	border-radius: 6px;
+}
+
+#derecha{
+	float: right;
+	width: 65%;
+	height: 100%;
+}
+
+.f1{
+	margin-left: 20px;
+	font-family: arial;
+}
+
+.f2{
+	font-size: 15px;
+}
+
+.f3{
+	font-size: 25px;
+}
+
+#uno{
+	height: 70%;
+	width: 100%;
+}
+
+#dos{
+	height: 10%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+#tres{
+	height: 20%;
+	width: 100%;
+	text-align: center;
+}
+
+
+.bolo{
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	border: 10px solid indianred;
+	margin-left: 35%;
+	margin-top: 20px;
+}
+
+.f4{
+	margin-top: 15px;
+	margin-left: 25%;
+	font-family: arial;
+	font-size: 30px;
+	color: indianred;
+}
+
+.f5{
+	margin-top: 15px;
+	margin-left: 35%;
+	font-family: arial;
+	font-size: 20px;
+	color: gray;
+}
+
+.botones{
+	display: inline-block;
+	cursor: pointer;
+	margin-left: 5px;
+	margin-right: 10px;
+	margin-top: 20px;
+}
+
+.botonf{
+	border: 2px solid indianred;
+	padding: 15px;
+	margin: 15px;
+	display: inline-block;
+	border-radius: 6px;
+}
